@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi!👋
+- 🌱 I’m a second year student in the BSDS program at the University of Virginia School of Data Science
+- 🔭 I have a strong interest Multi-modal, Multi-Agent, RAG-based, fully-automated chatbots, namely its applications in enterprise environments 
+- 📫 How to reach me: wkt7ne@virginia.edu
 <!--
 **JuneWayne/JuneWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
