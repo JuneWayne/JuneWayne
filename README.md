@@ -6,8 +6,8 @@
 - 😭 Last summer I was an AI & Automations Intern at Align Tech, actively open to internship opportunities for the summer of 2026
 - 📫 How to reach me: wkt7ne@virginia.edu
 ---
-**I have four major projects pinned:**
+**I have four major projects pinned down below:**
 - `CavHires:` A website born in the 2025 Hoo Hacks Hackathon aimed to promote real time Campus Part-time jobs to UVA students.
-- `Active Learning Lab Web Application:` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
+- `Active Learning Lab Website:` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
 - `PARCtorch:` A to-be published PyTorch library that implements the Physics-Aware Recurrent Convolutional Neural Network that could effectively predict & simulate physics simulations. I worked on the training and model design of the PARC neural network for ShearFlow Fluid Dynamics.
 - `Agents Playground:` A project from McIntire to research into the realm of Agentic AI, seeking ways to optimize RAG, multi-Agent, and multi-modal chatbot systems for better user experience in market research efforts
