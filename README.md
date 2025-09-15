@@ -5,17 +5,9 @@
 - 🤔 Not to mention my continued passion and exploration into the application of ML and predictive analytics in client projects and real-life scenarios
 - 😭 Last summer I was an AI & Automations Intern at Align Tech, actively open to internship opportunities for the summer of 2026
 - 📫 How to reach me: wkt7ne@virginia.edu
-<!--
-**JuneWayne/JuneWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning the BSDS major and I like it very much
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**I have four major projects pinned:**
+- `CavHires:` A website born in the 2025 Hoo Hacks Hackathon aimed to promote real time Campus Part-time jobs to UVA students.
+- `Active Learning Lab Web Application:` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
+- `PARCtorch:` A to-be published PyTorch library that implements the Physics-Aware Recurrent Convolutional Neural Network that could effectively predict & simulate physics simulations. I worked on the training and model design of the PARC neural network for ShearFlow Fluid Dynamics.
+- `Agents Playground:` A project from McIntire to research into the realm of Agentic AI, seeking ways to optimize RAG, multi-Agent, and multi-modal chatbot systems for better user experience in market research efforts
