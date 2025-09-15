@@ -1,5 +1,5 @@
 ## Hi!👋
-- 🌱 This is Ethan, I’m a third year student in the `BSDS program at the University of Virginia School of Data Science`
+- 🌱 This is Ethan, I’m a third year student in the `B.S. in Data Science program at the University of Virginia School of Data Science`
 - 🔭 I have a strong interest Multi-modal, Multi-Agent, RAG-based, fully-automated chatbots, namely its applications in enterprise environments
 - ⚡ I am also a big fan of building sustainable data pipeline systems that extracts, transforms, and load quality and abundant volume of data to support prominent ML and real time data analytics tasks (This has proven to be extremely necessary within my own project explorations)
 - 🤔 Not to mention my continued passion and exploration into the application of ML and predictive analytics in client projects and real-life scenarios
