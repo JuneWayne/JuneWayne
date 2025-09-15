@@ -3,6 +3,7 @@
 - 🔭 I have a strong interest Multi-modal, Multi-Agent, RAG-based, fully-automated chatbots, namely its applications in enterprise environments
 - ⚡ I am also a big fan of building sustainable data pipeline systems that extracts, transforms, and load quality and abundant volume of data to support prominent ML and real time data analytics tasks (This has proven to be extremely necessary within my own project explorations)
 - 🤔 Not to mention my continued passion and exploration into the application of ML and predictive analytics in client projects and real-life scenarios
+- 😭 Last summer I was an AI & Automations Intern at Align Tech, actively open to internship opportunities for the summer of 2026
 - 📫 How to reach me: wkt7ne@virginia.edu
 <!--
 **JuneWayne/JuneWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
