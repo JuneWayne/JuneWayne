@@ -6,8 +6,9 @@
 - 📫 How to reach me: wkt7ne@virginia.edu
 ---
 **I have several major projects pinned down below:**
-- `Latent Space Representation of Job Functions` A project continuing from the Active Learning Lab to map Job descriptions to latent space embeddings and cluster them to extract findings about the data science Job Market. (Led by Dr.Brian Wright and Ali Rivera)
+- `Latent Space Representation of Job Functions` A project continuing from the Active Learning Lab to map Job descriptions to latent space embeddings and cluster them to extract findings about the data science Job Market. (Advised by Dr.Brian Wright and Ali Rivera)
 - `Job-Market-Stream` A real-time data science internship streaming platform that acquires data about real-time job market updates
-- `Active Learning Lab Website:` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
-- `PARCtorch:` A to-be published PyTorch library that implements the Physics-Aware Recurrent Convolutional Neural Network that could effectively predict & simulate physics simulations. I worked on the training and model design of the PARC neural network for ShearFlow Fluid Dynamics.
+- `Multilingual Gender Bias in NLP Models` A research project advised by Dr. Briana Morrison that applies model agnostic techniques such as Perturbation Sensitivity Analysis to understand how NLP models exhibit gender bias across multilingual language contexts.
+- `PARCtorch:` A research project advised by Dr.Stephen Baek and Joseph Choi to train, design, and optimize Physics Recurrent Convolutional Neural Network on ShearFlow Fluid Dynamics problems.
 - `Agents Playground:` A project from McIntire to research into the realm of Agentic AI, seeking ways to optimize RAG, multi-Agent, and multi-modal chatbot systems for better user experience in market research efforts
+- `Active Learning Lab Website (Legacy):` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
