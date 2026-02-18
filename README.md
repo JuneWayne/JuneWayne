@@ -1,7 +1,7 @@
 ## Hi!👋
 - 🌱 This is **Ethan**, a third year student in the `B.S. in Data Science program` at the University of Virginia School of Data Science!
 - 🔭 I have a strong interest in Mechanistic Interpretability Research, specifically in the realm of AI Alignment and BlackBox Understanding of frontier models
-- 🤔 Currently, I am researcher at **Spatial AI Lab** led by Dr.Lei Li on Mechanistic Interpretability for 3D Genernative Models, specifically, interpreting Autoregressive 3D Mesh Generation Models.
+- 🤔 Currently, I am an undergraduate researcher at **Spatial AI Lab** led by Dr.Lei Li on **Mechanistic Interpretability for 3D Genernative Models**, specifically, interpreting Autoregressive 3D Mesh Generation Models.
 - 😶‍🌫️ Last summer I was an AI & Automations Intern at Align Tech, next summer I am an incoming Data Science Intern at Cisco Systems.
 - 📫 How to reach me: wkt7ne@virginia.edu
 ---
