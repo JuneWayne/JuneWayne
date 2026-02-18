@@ -10,5 +10,6 @@
 - `Job-Market-Stream` A real-time data science internship streaming platform that acquires data about real-time job market updates
 - `Multilingual Gender Bias in NLP Models` A research project advised by Dr. Briana Morrison that applies model agnostic techniques such as Perturbation Sensitivity Analysis to understand how NLP models exhibit gender bias across multilingual language contexts.
 - `PARCtorch:` A research project advised by Dr.Stephen Baek and Joseph Choi to train, design, and optimize Physics Recurrent Convolutional Neural Network on ShearFlow Fluid Dynamics problems.
+- `Newborn Infant Mortality Prediction:` A project at evaluates a series of machine learning models to predict infant mortality rates
 - `Agents Playground:` A project from McIntire to research into the realm of Agentic AI, seeking ways to optimize RAG, multi-Agent, and multi-modal chatbot systems for better user experience in market research efforts
 - `Active Learning Lab Website (Legacy):` A project underneath the Lab led by Prof.Wright to collect job market data & creating a website that allows for real time updates in the Data Science Job Market.
