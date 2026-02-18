@@ -1,9 +1,8 @@
 ## Hi!👋
 - 🌱 This is **Ethan**, a third year student in the `B.S. in Data Science program` at the University of Virginia School of Data Science!
-- 🔭 I have a strong interest Multi-modal, Multi-Agent, RAG-based, fully-automated chatbots, namely its applications in enterprise environments
-- ⚡ I am also a big fan of building sustainable data pipeline systems that extracts, transforms, and load quality and abundant volume of data to support prominent ML and real time data analytics tasks (This has proven to be extremely necessary within my own project explorations)
-- 🤔 Currently a researcher at Spatial AI Lab led by Dr.Lei Li on Mechanistic Interpretability for 3D Genernative Models
-- 😭 Last summer I was an AI & Automations Intern at Align Tech, incoming at Cisco Systems as a Data Science Intern
+- 🔭 I have a strong interest in Mechanistic Interpretability Research, specifically in the realm of AI Alignment and BlackBox Understanding of frontier models
+- 🤔 Currently, I am researcher at **Spatial AI Lab** led by Dr.Lei Li on Mechanistic Interpretability for 3D Genernative Models, specifically, interpreting Autoregressive 3D Mesh Generation Models.
+- 😶‍🌫️ Last summer I was an AI & Automations Intern at Align Tech, next summer I am an incoming Data Science Intern at Cisco Systems.
 - 📫 How to reach me: wkt7ne@virginia.edu
 ---
 **I have several major projects pinned down below:**
